@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex × DeepSeek Harness"
+  short_description: "Codex 规划、dsh 实现与自测、Codex 独立验收及返修闭环"
+  default_prompt: "使用 $codex-dsh-workflow 完成当前开发任务：先由 Codex 调查并制定验收条件，再由 dsh 执行，最后由 Codex 独立验证，必要时返修。"
